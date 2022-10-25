@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Online Courses",
+    "img": "https://i.ibb.co/6sB571w/play-button.png",
+    "desc": "Desc....."
+  },
+  {
+    "id": 2,
+    "name": "Offline Courses",
+    "img": "https://i.ibb.co/kJH1nrQ/video-camera.png",
+    "desc": "Every class of Freelancing Educare institutes offline course is video recording. There is no chance of missing the class even if you are unable to come to the office for any reason"
+  },
+  {
+    "id": 3,
+    "name": "Support Session",
+    "img": "https://i.ibb.co/fHPQm5m/user.png",
+    "desc": "Desc....."
+  },
+  {
+    "id": 4,
+    "name": "Installment facility",
+    "img": "https://i.ibb.co/SnJhQSs/dollar-currency-symbol.png",
+    "desc": "Desc....."
+  },
+  {
+    "id": 5,
+    "name": "Youtube Channel",
+    "img": "https://i.ibb.co/B2tHTbx/youtube.png",
+    "desc": "Desc....."
+  },
+	{
+    "id": 6,
+    "name": "Web Hosting",
+    "img": "https://i.ibb.co/VS2jKJK/servers.png",
+    "desc": "Desc....."
+  }
+]
