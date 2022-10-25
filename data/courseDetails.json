@@ -1,0 +1,175 @@
+[
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6adane",
+ "others_info": {
+"is_todays_pick": false,
+"is_trending": true
+ },
+ "category_id": 1,
+ "details": {
+"duration": 6,
+"class": "48",
+"project": "30+"
+ },
+ "name": "Professonal Graphic Design",
+ "image": "https://i.ibb.co/sPgWYJB/graphic.jpg",
+ "student": 220,
+"review": 195,
+"course_fees": 10000,
+ 
+ "desc": "As the demand for visual content has increased, marketers are now turning to graphical content. Hence the demand for graphic designers across the world is skyrocketing. A survey shows that even a small company can spend up to $500 for a good logo. Do you love to do design work? Then our graphic design course with expert instructor in updated modules is for you."
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6ajones",
+ "others_info": {
+"is_todays_pick": false,
+"is_trending": true
+ },
+ "category_id": 2,
+ "details": {
+"duration": 6,
+"class": "48",
+"project": "10+"
+ },
+ "name": "Web Design",
+"img": "https://i.ibb.co/M5dfGph/web.jpg",
+    "student": 500,
+    "review": 490,
+    "course_fees": 40000,
+ "desc": "Thousands of websites are being created worldwide every moment. The website carries the identity of all kinds of work, whether it is a hobby or a full-fledged business. That is why web designer is in high demand as a career in digital platforms. So if you want to make a career as a web designer, then our web design course is for you."
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6ahall",
+ "others_info": {
+"is_todays_pick": false,
+"is_trending": true
+ },
+ "category_id": 3,
+ "details": {
+"duration": 6,
+"class": "48",
+"project": "18+"
+ },
+ "name": "Digital Marketing",
+    "img": "https://i.ibb.co/8YN0w6T/marketing.jpg",
+    "student": 300,
+    "review": 250,
+    "course_fees": 15000,
+ "desc": "Digital marketing is the trending topic in the tech dependent world. From daily necessities to cars and houses, most people now turn to the internet to buy anything. According to Google, about 87 percent of people search Amazon or Google before buying anything. So enroll in digital marketing course to get success in business or learn online marketing."
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6agreen",
+ "others_info": {
+"is_todays_pick": false,
+"is_trending": true
+ },
+ "category_id": 4,
+ "details": {
+"duration": 7,
+"class": "54",
+"project": "8+"
+ },
+ "name": "Professional 3D Animation",
+    "img": "https://i.ibb.co/YPVc6yd/animation.jpg",
+    "student": 320,
+    "review": 300,
+    "course_fees": 12000,
+ "desc": "3D Animator is a smart profession due to the proliferation of visual media including movies, games, videos. You can enroll in professional 3D animation course to earn good income in this sector. Freelancing Educare Instutute is ready for you with skilled mentors, updated modules and best services.."
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6awalker",
+ "others_info": {
+"is_todays_pick": false,
+"is_trending": true
+ },
+ "category_id": 5,
+ "details": {
+"duration": 4,
+"class": "32",
+"project": "25+"
+ },
+ "name": "Cyber Security",
+    "img": "https://i.ibb.co/BtCvLss/cyber.jpg",
+    "student": 180,
+    "review": 150,
+    "course_fees": 20000,
+ "desc": "According to a survey, only in 2021, the total loss of various companies due to cyber attacks around the world is about 6 trillion dollars. Another survey shows that during this crisis of Covid-19, the amount of cybercrime has increased by almost 600 percent! From here we can get an idea of ​​the increasing demand for cyber security analysts or cyber engineers to increase cyber security. Ethical hackers are getting smart salaries in keeping with the times. So choose our cyber security course to make a career as a hacker."
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6adoeabc",
+ "others_info": {
+"is_todays_pick": false,
+"is_trending": true
+ },
+ "category_id": 6,
+ "details": {
+"duration": 4,
+"class": "24",
+"project": "50+"
+ },
+ "name": "Cisco CCNA",
+    "img": "https://i.ibb.co/Y86wFMM/ccna.jpg",
+    "student": 200,
+    "review": 18,
+    "course_fees": 10000,
+ "desc": "Today every company operates under a network. As a result, there is a huge demand for CCNA courses in various sectors including telecommunication sector, banking sector, mobile phone. So if you do Cisco CCNA course, you can build a great career in these jobs."
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6amiler",
+ "others_info": {
+"is_todays_pick": false,
+"is_trending": true
+ },
+"category_id": 7,
+ "details": {
+"duration": 3,
+"class": "24",
+"project": "5+"
+ },
+  "name": "Professional Video Editing",
+    "img": "https://i.ibb.co/02s64xY/videoediting.png",
+    "student": 260,
+    "review": 200,
+    "course_fees": 15000,
+ "desc": "Video editing is a profession where there is always room for creativity. In this profession, there is a bright future along with fame, reputation, familiarity. Globally, Bangladesh has a huge field to build a career in this profession. So if you want to build your career in this hobby, then our Video Editing Course is for you.."
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6aevans",
+ "others_info": {
+"is_todays_pick": false,
+"is_trending": true
+ },
+"category_id": 8,
+ "details": {
+"duration": 3,
+"class": "24",
+"project": "25+"
+ },
+  "name": "Spoken English",
+    "img": "https://i.ibb.co/J7Yz4M7/spoken.jpg",
+    "student": 800,
+    "review": 500,
+    "course_fees": 10000,
+ "desc": "English is the first language of nearly 400 million people around the world. As such, English is the most widely spoken language in the world. That is why any remote job or international marketplace is communicated in English. From here one can easily guess how important English is for career. So if you want to learn English for workplace use as soon as possible, then our Spoken English course is for you.."
+ },
+  {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6aevans",
+ "others_info": {
+"is_todays_pick": false,
+"is_trending": true
+ },
+"category_id": 9,
+ "details": {
+"duration": 4,
+"class": "32",
+"project": "0"
+ },
+  "name": "Amazon Web Services",
+    "img": "https://i.ibb.co/KbkcC11/aws.jpg",
+    "student": 200,
+    "review": 180,
+    "course_fees": 30000,
+ "desc": "The current hot topic in the world of cloud computing is Amazon Web Services or AWS. Small and large businesses around the world are now choosing AWS for low-cost cloud servers and all the tools they need. So if you want to make a career as an AWS developer in this demanding sector, then Amazon Web Services course is for you.."
+ }
+
+]
