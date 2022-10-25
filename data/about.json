@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Online Courses",
     "img": "https://i.ibb.co/6sB571w/play-button.png",
-    "desc": "Desc....."
+    "desc": "Those who live outside Dhaka and if it is not possible to come to our office to take classes, they have the facility of online courses. You get the opportunity to take classes from any place"
   },
   {
     "id": 2,
@@ -15,24 +15,24 @@
     "id": 3,
     "name": "Support Session",
     "img": "https://i.ibb.co/fHPQm5m/user.png",
-    "desc": "Desc....."
+    "desc": "It is not only our responsibility to conduct courses. After completing the course everything is shown and helped on how to get work and how to communicate with clients."
   },
   {
     "id": 4,
     "name": "Installment facility",
     "img": "https://i.ibb.co/SnJhQSs/dollar-currency-symbol.png",
-    "desc": "Desc....."
+    "desc": "Our offline courses have the facility of installments. You can pay the course fee in installments if you want. Call the hotline for installment details."
   },
   {
     "id": 5,
     "name": "Youtube Channel",
     "img": "https://i.ibb.co/B2tHTbx/youtube.png",
-    "desc": "Desc....."
+    "desc": "Our YouTube channel has 230+ video tutorials on wave design and other courses. Watch the videos to know about the quality of our courses."
   },
 	{
     "id": 6,
     "name": "Web Hosting",
     "img": "https://i.ibb.co/VS2jKJK/servers.png",
-    "desc": "Desc....."
+    "desc": "Domain, Hosting, Themes, Plugins and Tools required for practice are provided by us to all students of Freelancing Educare Institute."
   }
 ]

@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": 1,
+    "name": "Graphic Design",
+    "img": "https://i.ibb.co/sPgWYJB/graphic.jpg",
+    "student": 220,
+    "review": 195,
+    "course_fees": 10000
+  },
+  {
+    "id": 2,
+    "name": "Web Design",
+    "img": "https://i.ibb.co/M5dfGph/web.jpg",
+    "student": 500,
+    "review": 490,
+    "course_fees": 40000
+  },
+  {
+    "id": 3,
+    "name": "Digital Marketing",
+    "img": "https://i.ibb.co/8YN0w6T/marketing.jpg",
+    "student": 300,
+    "review": 250,
+    "course_fees": 15000
+  },
+  {
+    "id": 4,
+    "name": "3D Animation",
+    "img": "https://i.ibb.co/YPVc6yd/animation.jpg",
+    "student": 320,
+    "review": 300,
+    "course_fees": 12000
+  },
+  {
+    "id": 5,
+    "name": "Cyber Security",
+    "img": "https://i.ibb.co/BtCvLss/cyber.jpg",
+    "student": 180,
+    "review": 150,
+    "course_fees": 20000
+  },
+  {
+    "id": 6,
+    "name": "CCNA",
+    "img": "https://i.ibb.co/Y86wFMM/ccna.jpg",
+    "student": 200,
+    "review": 18,
+    "course_fees": 10000
+  },
+  {
+    "id": 7,
+    "name": "Video Editing",
+    "img": "https://i.ibb.co/02s64xY/videoediting.png",
+    "student": 260,
+    "review": 200,
+    "course_fees": 15000
+  },
+  {
+    "id": 8,
+    "name": "Spoken English",
+    "img": "https://i.ibb.co/J7Yz4M7/spoken.jpg",
+    "student": 800,
+    "review": 500,
+    "course_fees": 10000
+  },
+  {
+    "id": 9,
+    "name": "Amazon Web Services",
+    "img": "https://i.ibb.co/KbkcC11/aws.jpg",
+    "student": 200,
+    "review": 180,
+    "course_fees": 30000
+  }
+]
